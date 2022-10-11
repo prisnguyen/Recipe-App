@@ -1,6 +1,6 @@
 # Recipe-App
 
-I've made 2 screens (below  the links). On the first screen, we can scroll down and drag left in the Trending Recipe section. I have a trouble with navigation, I've just figured out how to fix it, however, I can't fix it in time. 
+I've made 2 screens (below are the links). On the first screen, we can scroll down and drag left in the Trending Recipe section. I have a trouble with navigation, I've just figured out how to fix it, however, I can't fix it in time. 
 
 Besides, I can't upload node_module and ios files because they have too many sub-files. But you can try to run it with the command:
  
